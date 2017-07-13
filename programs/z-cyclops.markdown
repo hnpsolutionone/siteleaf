@@ -1,12 +1,13 @@
 ---
+title: Cyclops
+date: 2014-04-25 19:32:06 Z
+permalink: "/programs/cyclops/"
 layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2014/04/CYCLOPS_DVD-rear-art-713x1024.jpg
-published: true
 sidetxt: DVD Available for $100
 paypall-id: WJLTWK5NN2NBC
-title: Cyclops
 author:
   display_name: admin
   login: admin
@@ -16,9 +17,7 @@ author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
 wordpress_id: 164
-permalink: /programs/cyclops/
 wordpress_url: http://www.macmillanfilms.com/?page_id=164
-date: '2014-04-25 15:32:06 -0400'
 date_gmt: '2014-04-25 19:32:06 -0400'
 categories: []
 tags: []

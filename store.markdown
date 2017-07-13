@@ -1,12 +1,13 @@
 ---
-layout: page
-permalink: /store/
 title: Easy Ways to Purchase DVDs
-date: '2013-08-20 19:45:21 -0400'
+date: 2013-08-20 23:45:21 Z
+permalink: "/store/"
+layout: page
 date_gmt: '2013-08-20 23:45:21 -0400'
 categories: []
 tags: []
 ---
+
 <p><strong>Via Check, Credit Card or PAYPAL<br />
 </strong></p>
 <p>Please e-mail jamesthomas@onebox.com and mention your preferred payment option for your DVDs. We can e-mail you a secure PAYPAL invoice, mail a standard invoice - or you can just mail us a check when you get your DVD.</p>

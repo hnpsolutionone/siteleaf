@@ -1,11 +1,12 @@
 ---
-layout: page
 title: Home
-date: '2017-08-20 14:15:58 -0400'
+date: 2017-08-20 18:15:58 Z
+layout: page
 date_gmt: '2013-08-20 18:15:58 -0400'
 categories: []
 tags: []
 ---
+
 <p><a href="{{ site.baseurl }}/programs/prometheus-bound/"><img class="alignnone size-large wp-image-320" src="https://macmillancdn.appspot.com/wp-content/uploads/2015/04/Prometheus-Bound-Staging-DVD-1024x732.jpg" alt="Prometheus Bound Staging DVD" width="604" height="432" /></a></p>
 
 <p style="text-align: center;"><a style="color: #ea9629;" title="Feature Film Lysistrata" href="/programs/lysistrata-feature-film/"><img class="aligncenter wp-image-227 size-large" src="https://macmillancdn.appspot.com/wp-content/uploads/2014/01/Lysistrata-Feature-FILM-3D-DVD-PACKAGE-1024x744.jpg" alt="Lysistrata Feature film DVD box Design" width="604" height="439" /></a></p>

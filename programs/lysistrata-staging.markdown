@@ -1,12 +1,13 @@
 ---
+title: Lysistrata Staging
+date: 2013-08-20 20:43:16 Z
+permalink: "/programs/lysistrata-staging/"
 layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg
 sidetxt: The complete staging of Aristophanes’ masterpiece is available on DVD - $100.
 paypall-id: R5HDRKDH7TNH8
-published: true
-title: Lysistrata Staging
 author:
   display_name: admin
   login: admin
@@ -16,13 +17,12 @@ author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
 wordpress_id: 54
-permalink: /programs/lysistrata-staging/
 wordpress_url: http://macmillanfilms.com/newsite/?page_id=54
-date: '2013-08-20 16:43:16 -0400'
 date_gmt: '2013-08-20 20:43:16 -0400'
 categories: []
 tags: []
 ---
+
 ![Lysistrata: Beyond Sex](https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg)
 
 This is the popular complete staging of Aristophanes shocking comic masterpiece featureing Iris McQuillan-Grace in the title role and a talented ensemble cast.  Come see why sexual politics are timelessly funny. Remastered in HD in 2016.

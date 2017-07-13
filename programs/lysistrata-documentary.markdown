@@ -1,12 +1,17 @@
 ---
+title: Lysistrata Documentary
+date: 2013-08-20 19:11:10 Z
+permalink: "/programs/lysistrata-documentary/"
 layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/images/3DLysistrataDocwithRearSm.jpg
-sidetxt: This PBS Documentary focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. This comedy about a sex strike to end war, presages the rise of female leadership from a joke towards a necessary reality. Insightful interviews with prominent theater scholars and female leaders expose the ancient connections among violence, sex, drama, and politics. Price $100
+sidetxt: This PBS Documentary focuses on the provocative ideas in Aristophanes' classic
+  Greek play Lysistrata. This comedy about a sex strike to end war, presages the rise
+  of female leadership from a joke towards a necessary reality. Insightful interviews
+  with prominent theater scholars and female leaders expose the ancient connections
+  among violence, sex, drama, and politics. Price $100
 paypall-id: YST9ERU2LTCQE
-published: true
-title: Lysistrata Documentary
 author:
   display_name: admin
   login: admin
@@ -16,13 +21,12 @@ author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
 wordpress_id: 39
-permalink: /programs/lysistrata-documentary/
 wordpress_url: http://macmillanfilms.com/newsite/?page_id=39
-date: '2013-08-20 15:11:10 -0400'
 date_gmt: '2013-08-20 19:11:10 -0400'
 categories: []
 tags: []
 ---
+
 ![Box Art](https://macmillancdn.appspot.com/images/3DLysistrataDocwithRearSm.jpg)
 
 As Hillary Clinton’s campaign pushes boundaries on female leadership, this documentary explores Aristophanes' masterpiece about female civic power.  Interviews include Jane Fonda, Katrina vanden Heuvel, Carol Jenkins, Senator Liz Krueger and Katha Pollitt.  Aristophanes' timeless comedy about a sex strike and a power grab, reveals much about the ancient archetypes that still impact current political thought.
