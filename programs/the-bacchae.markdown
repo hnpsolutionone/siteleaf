@@ -2,6 +2,7 @@
 title: The Bacchae
 date: 2013-08-20 22:53:23 Z
 permalink: "/programs/the-bacchae/"
+position: 8
 layout: product
 status: publish
 price: 100

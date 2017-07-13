@@ -2,6 +2,7 @@
 title: Educational Mission
 date: 2013-08-20 23:37:30 Z
 permalink: "/educational-mission/"
+position: 0
 layout: page
 date_gmt: '2013-08-20 23:37:30 -0400'
 categories: []

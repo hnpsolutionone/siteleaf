@@ -2,6 +2,7 @@
 title: The Oresteia
 date: 2014-04-25 20:06:16 Z
 permalink: "/programs/the-oresteia/"
+position: 9
 layout: product
 status: publish
 price: 200

@@ -2,6 +2,7 @@
 title: Cyclops
 date: 2014-04-25 19:32:06 Z
 permalink: "/programs/cyclops/"
+position: 12
 layout: product
 status: publish
 price: 100

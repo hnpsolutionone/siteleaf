@@ -2,6 +2,7 @@
 title: Antigone
 date: 2014-04-25 18:53:31 Z
 permalink: "/programs/antigone/"
+position: 11
 layout: product
 status: publish
 price: 100
