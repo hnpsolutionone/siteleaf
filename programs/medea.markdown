@@ -2,6 +2,7 @@
 title: Medea
 date: 2016-06-01 19:11:10 Z
 permalink: "/programs/medea/"
+position: 5
 layout: product
 status: publish
 price: 100

@@ -2,6 +2,7 @@
 title: Western Philosophy
 date: 2013-08-20 20:58:44 Z
 permalink: "/programs/western-philosophy/"
+position: 10
 layout: product
 status: publish
 price: 100

@@ -2,6 +2,7 @@
 title: Easy Ways to Purchase DVDs
 date: 2013-08-20 23:45:21 Z
 permalink: "/store/"
+position: 7
 layout: page
 date_gmt: '2013-08-20 23:45:21 -0400'
 categories: []

@@ -1,6 +1,7 @@
 ---
 title: Home
 date: 2017-08-20 18:15:00 Z
+position: 1
 date_gmt: '2013-08-20 18:15:58 -0400'
 layout: page
 ---

@@ -2,6 +2,7 @@
 title: Lysistrata Staging
 date: 2013-08-20 20:43:16 Z
 permalink: "/programs/lysistrata-staging/"
+position: 4
 layout: product
 status: publish
 price: 100

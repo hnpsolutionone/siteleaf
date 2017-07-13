@@ -2,6 +2,7 @@
 title: Prometheus Bound
 date: 2015-04-19 00:29:35 Z
 permalink: "/programs/prometheus-bound/"
+position: 6
 layout: product
 status: publish
 price: 100
