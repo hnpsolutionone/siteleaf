@@ -2,10 +2,6 @@
 title: NT Team
 timezone: UTC
 collections:
-  43534534-5345:
-    title: Posts
-    output: true
-    permalink: s gsdf g
   posts-555555:
     title: Posts
     output: true
@@ -13,6 +9,10 @@ collections:
   posts:
     title: Posts
     output: true
+  43534534-5345:
+    title: Posts fg sdf gsd fg
+    output: true
+    permalink: s gsdf g
   uploads:
     title: Uploads
     output: true
