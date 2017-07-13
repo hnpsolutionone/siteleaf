@@ -2,11 +2,22 @@
 title: NT Team
 timezone: UTC
 collections:
+  posts-555555:
+    title: Posts
+    output: true
+    permalink: sgf sd f
   posts:
     title: Posts
     output: true
+  43534534-5345:
+    title: Posts fg sdf gsd fg
+    output: true
+    permalink: s gsdf g
   uploads:
     title: Uploads
+    output: true
+  df-s-df:
+    title: df s df
     output: true
 baseurl: 
 url: https://www.macmillanfilms.com
