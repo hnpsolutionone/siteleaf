@@ -2,6 +2,7 @@
 title: Lysistrata Documentary
 date: 2013-08-20 19:11:10 Z
 permalink: "/programs/lysistrata-documentary/"
+position: 0
 layout: product
 status: publish
 price: 100
