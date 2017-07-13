@@ -8,6 +8,7 @@ collections:
   posts-555555:
     title: Posts
     output: true
+    permalink: sgf sd f
   posts:
     title: Posts
     output: true
