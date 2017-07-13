@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  df-s-df:
+    title: df s df
+    output: true
 baseurl: 
 url: https://www.macmillanfilms.com
 enforce_ssl: www.macmillanfilms.com
