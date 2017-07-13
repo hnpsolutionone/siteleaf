@@ -5,6 +5,9 @@ collections:
   postsg-hfdg-h:
     title: Posts
     output: true
+  posts-555555:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
