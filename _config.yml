@@ -2,6 +2,9 @@
 title: NT Team
 timezone: UTC
 collections:
+  postsg-hfdg-h:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
